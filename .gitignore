@@ -1,0 +1,12 @@
+compiledProgram 
+*.in
+*.out 
+sol 
+a 
+1
+temp
+*.txt
+.vscode/
+.idea/
+cmake-build-debug/
+.cph/
